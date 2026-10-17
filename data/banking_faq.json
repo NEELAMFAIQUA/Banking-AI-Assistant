@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Keeping online banking accounts secure",
+    "content": "Use a unique, strong password for each financial account and turn on multi-factor authentication when available. Never share a password or one-time verification code. Avoid signing in over public Wi-Fi; use your bank's official app or type its known website address. Keep devices and apps updated, and review account alerts and statements regularly. Contact your bank using the phone number on its official website or your card if you suspect unauthorized access."
+  },
+  {
+    "title": "What deposit insurance generally covers",
+    "content": "Deposit insurance protects eligible deposits at insured institutions up to limits set by the relevant government program. Coverage rules, limits, account categories, and eligible institutions vary by country. Investment products such as stocks, bonds, and mutual funds are generally not the same as insured bank deposits. Check the official deposit insurer in your jurisdiction for current rules and coverage."
+  },
+  {
+    "title": "Understanding interest and compounding",
+    "content": "Interest is the cost of borrowing money or the return a deposit may earn. Simple interest is calculated on the original principal. Compound interest is calculated on principal plus previously earned interest, so the balance can grow faster over time. The actual rate, compounding schedule, fees, and terms depend on the product agreement. Compare official disclosures rather than relying on an estimate."
+  },
+  {
+    "title": "Credit reports and credit scores",
+    "content": "A credit report may summarize borrowing and repayment history, while a credit score is a number calculated from information in a report using a particular model. Scoring methods and consumer rights differ by country. Review reports through official channels, dispute inaccurate information with the reporting organization, and be cautious of services promising guaranteed score increases."
+  },
+  {
+    "title": "Recognizing and reporting possible fraud",
+    "content": "Be cautious of urgent messages asking for passwords, one-time codes, remote access, or immediate payment. Verify unexpected requests through a contact method you find independently on an official bank website or card. If you notice a transaction you do not recognize, contact your bank promptly using an official channel and follow its instructions to secure the account. Keep relevant messages and records."
+  },
+  {
+    "title": "Common bank account fees",
+    "content": "Account fees can include monthly maintenance, overdraft, ATM, wire transfer, and foreign transaction fees. Fee names and rules vary by provider and location. Read the account's current fee schedule and terms, ask the institution how a fee is triggered, and compare alternatives using official disclosures. A demo assistant cannot see your specific account or determine which fees apply to you."
+  },
+  {
+    "title": "Making a basic budget",
+    "content": "A basic budget lists take-home income and expected expenses over a chosen period. Group spending into essentials, savings goals, debt payments, and discretionary costs, then compare the plan with actual spending. Leave room for irregular expenses and review the plan periodically. This general educational method does not account for an individual's full circumstances or provide personal financial advice."
+  },
+  {
+    "title": "Protecting payment cards",
+    "content": "Keep payment cards in a secure place, use transaction alerts if offered, and review statements regularly. Do not send card details or security codes in response to unsolicited calls, texts, or emails. If a card is lost or a transaction appears suspicious, contact the issuer through its official app, website, or the number printed on the card and follow its reporting process."
+  }
+]
