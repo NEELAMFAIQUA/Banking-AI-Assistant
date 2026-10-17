@@ -1,0 +1,51 @@
+[
+  {
+    "id": "deposit-insurance",
+    "title": "Deposit insurance basics",
+    "question": "How are eligible bank deposits protected?",
+    "answer": "Deposit protection depends on the country, the institution, the account ownership category, and applicable coverage limits. In the United States, the FDIC generally insures eligible deposits at insured banks up to $250,000 per depositor, per insured bank, for each account ownership category. Investment products such as stocks, bonds, and mutual funds are not FDIC-insured deposits. Confirm current rules and institution status with the relevant official deposit insurer.",
+    "source": "General educational summary; see fdic.gov/resources/deposit-insurance/"
+  },
+  {
+    "id": "checking-savings",
+    "title": "Checking and savings accounts",
+    "question": "What is the difference between checking and savings accounts?",
+    "answer": "A checking account is commonly used for frequent payments and withdrawals, while a savings account is generally intended for holding money and may pay interest. Features, fees, withdrawal rules, and interest rates vary by provider and account. Review the account agreement and fee schedule before opening an account.",
+    "source": "General banking education"
+  },
+  {
+    "id": "account-opening",
+    "title": "Opening an account",
+    "question": "What information may a bank request to open an account?",
+    "answer": "A financial institution may ask for identity and contact information and documents required by local law. Requirements differ by country, institution, and account type. Apply only through the bank's official website, app, or branch. Never share a password, PIN, one-time verification code, or full account credentials in a chat.",
+    "source": "General banking education"
+  },
+  {
+    "id": "interest-rate-apr",
+    "title": "Interest rates and APR",
+    "question": "How are interest rate and APR different?",
+    "answer": "An interest rate is the cost of borrowing expressed as a rate. Annual percentage rate (APR) is a standardized measure that can include the interest rate and certain fees, depending on the product and local rules. Compare the disclosures for the specific product, including whether the rate is fixed or variable and how fees are treated.",
+    "source": "General consumer-finance education"
+  },
+  {
+    "id": "credit-report",
+    "title": "Credit reports",
+    "question": "What is a credit report and how can I check it?",
+    "answer": "A credit report is a record of information about credit accounts and payment history maintained by credit reporting agencies. Access rights, reporting agencies, and free-check options vary by country. Use official government or regulator resources to find the authorized way to request your report, and review reports for errors.",
+    "source": "General consumer-finance education"
+  },
+  {
+    "id": "fraud-response",
+    "title": "Responding to suspected account fraud",
+    "question": "What should I do if I notice a suspicious banking transaction?",
+    "answer": "Contact your bank promptly using the phone number on your card or an official website or app that you navigate to yourself. Follow the bank's instructions to secure the account and dispute the transaction. Do not use contact details from an unexpected message, and never disclose your password, PIN, or one-time code.",
+    "source": "General security education"
+  },
+  {
+    "id": "budgeting",
+    "title": "Budgeting basics",
+    "question": "What is a simple way to start a budget?",
+    "answer": "A basic budget starts by listing take-home income and tracking spending over a representative period. Group expenses into needs, discretionary spending, and savings or debt payments, then compare totals with income. The right method depends on personal circumstances; this overview is educational and not individualized financial advice.",
+    "source": "General financial education"
+  }
+]
